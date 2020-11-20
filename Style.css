@@ -1,0 +1,12 @@
+body {
+ text-align: center;
+ background-color: #00ffe5;
+background-image: linear-gradient(160deg, #00ffe5 0%, #8010f7 100%);
+}
+#CR {
+  border-radius: 50%;
+}
+p {
+  font-size: 21px;
+  font-weight: normal;
+}
